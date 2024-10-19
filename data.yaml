@@ -1,0 +1,8 @@
+train: 'F:\datawajue\plant-seedlings\train\image'
+val: 'F:\datawajue\plant-seedlings\val\image'
+test:  'F:\datawajue\plant-seedlings\test'
+
+
+nc : 5
+name: [草地早熟禾,蓟,藜,莎草,玉米]
+
